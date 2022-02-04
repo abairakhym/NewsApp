@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News Demo App</string>
+    <string name="hello_world">Привет Мир</string>
+    <string name="next">Вперед</string>
+    <string name="choose_lang">Выберите язык</string>
+
+    //Headings
+    <string name="heading_first">О приложений</string>
+    <string name="heading_second">О приложений</string>
+
+    //Description
+    <string name="description_first">Эта программа предназначена для чтения новостей</string>
+    <string name="description_second">Вы читаете все новости в мире с помощью этой приложений</string>
+</resources>

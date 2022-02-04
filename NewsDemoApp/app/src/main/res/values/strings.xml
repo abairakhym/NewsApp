@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">News Demo App</string>
+    <string name="hello_world">Сәлем Әлем</string>
+    <string name="next">Алға</string>
+    <string name="choose_lang">Тіл таңдаңыз</string>
+
+    //Headings
+    <string name="heading_first">Бағдарлама туралы</string>
+    <string name="heading_second">Бағдарлама туралы</string>
+
+    //Description
+    <string name="description_first">Бұл бағдарлама жаңалықтарды оқуға арналған</string>
+    <string name="description_second">Бұл бағдарлама арқылы әлемдегі барлық жаңалықтарды оқисыз</string>
+</resources>
